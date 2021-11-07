@@ -1,0 +1,30 @@
+body{
+    font-family:  'Dongle', sans-serif; 
+    background:wheat;
+    text-align: center;
+}
+
+.header_div{
+    background: floralwhite;
+    color: lightcoral;
+}
+
+.header_div p{
+    font-family:'Dongle', sans-serif;
+    color: lightpink;
+    letter-spacing: 3px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+  color: indianred;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(218, 127, 142);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(211, 161, 163);
+}
